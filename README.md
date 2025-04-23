@@ -10,7 +10,7 @@
 
 ## Preview
 
-![screenshot](./img/mask.jpg)  <!-- Replace with your actual screenshot path --
+![screenshot](./img/MaskGroup/mask.jpg)  <!-- Replace with your actual screenshot path --
 ## Installation
 
 To get started with the project, follow these steps:
