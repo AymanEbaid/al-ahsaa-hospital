@@ -10,7 +10,7 @@
 
 ## Preview
 
-![screenshot](assets/screenshot.png)  <!-- Replace with your actual screenshot path -->
+![screenshot](img/mask.jpg)  <!-- Replace with your actual screenshot path -->
 
 ## Installation
 
